@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="113" height="114" viewBox="0 0 113 114">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 256 256">
+      <image width="256" height="256" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAMAAABrrFhUAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF////////VXz1bAAAAAJ0Uk5T/wDltzBKAAAESUlEQVR42uzdSWKDUAwDUOn+l+62uzYgy3YsHwCsV5IG+AN4vBCAAAQgAAEIQAACEIAABCAAAQhAAAIQgAAEIAAB8Jz6Vx0CwB/1xQD4oL4OAA/qawDwovYD4HVtBoCodgJAWusAIK9NACiqJQAorAUAKK7hADDUYACYaioAsFAAC+NLCbAyvpAAW/OrBLA1vooAi/NLBLA4voQAu/O/F8Dy/K8F0BHfdLh6gJJmzQLw5R9yaB1AcYsmATjyDz7FYwDXt3T5eVDcl/F3phPAfL9SeTYUdmR/1OICaHl0V3XOqv9PTU/bHQB9b3FKzoyCLlhWOwDITQJQd8DiUjeAZfnlLWBbfnUT0ptUmkp6470wv7QTIQA5RqAGYNQQT1kzEJ2S9hL1g635/+jIDECuFcDe/JqmsDi/pC0BADlTQAkwNb+gMyz+AMwAIHcLYHn+1929BCBHC2gAhud/2eArAHK6gAIAmwFQCkB+wSUAX/6eFwajALAQQPkOZqTAY4CnPdoF3gEUjHoadgnAdgEQTQJvALRjMbrens8DwBYA8XCkLoGJACUEj9qFnPS/RxtyCcB2AbBxHJUYQNbehEugFQCzARxjv/sFmgFcA0oHA2AsgH5qwkiBAQDAKoCeR5d1HzT4LtjeqQXDAXQE1QCsAkDTZ2AOAM4DiAhEABWzdEcKzALAeYDCmZZbADAagAaAKoHPANAIADgvgZEAOA+A8wAVv7gEADQCwPQtOBcA5wE8j1/he34Jm8AnR5sNgPMAwHkADAJgCwBqvwUXAADnAXAeAOcBgPMAOA+A8wDIFZDvgPwXyO+A/BLMvcA9gDl3g+efB+SJUJ4JnnkqfP69QN4M5d1g3g5nfEBGiJweI3R+lFjGCWakaMYKdwBwDsD5+QKZMWIH4A6A87PG7swbPD9zNHOHbQDkTIDz6wdkBQkHADkY4PwqMllHqPiFFW35nwKcX0ssq8nVAZArAM6vKJk1Rc+vKpt1hc+vLJ21xc+vLp/9Bc7vMJE9Rs7vMpN9hs7vNJW9xs7vNrd1v0EdwPkdJ7PnaHadPb/vcHae3rb3uB7g/O7ztlFe5mbAlQK6VoQAGJO/CmCMgLIPSM+MCfE/jMRtAuIWwGUC6gYgbwCt8T/Po28BnfnrAWwzX0xnRk0f6In/JE1VK2iI/yhMXTdwx3+WpbIhWOM/jFLbE3zxnyapbsu26gK9AJbZ8I4J93D8cd6Mqaq+zECTAIAJR5YC1KwMVHLQIgD18mDiwxkABCulvq63AbhcgN0A3J2fil+ri+NrALg4P833K9PiywC4NT91N+0r4ysBnATKprlQgFMBPATijlse3o6JXwBQS1DQbdcbjBnxiwBKDKoaJVcQ1LXJwhqfvhpAYlDdIMtrcHoPwFMEU2e01bzwZoD/Mdj7YV+NmHMxaP5rAAIQgAAEIAABCEAAAhCAAAQgAAEIQAAC4KgfAQYA2aq+XPnONj0AAAAASUVORK5CYII="/>
+    </pattern>
+  </defs>
+  <g id="Group_4" data-name="Group 4" transform="translate(-0.352 0.318)">
+    <g id="buttons" transform="translate(0 0)">
+      <rect id="play4" width="113" height="114" transform="translate(0.352 -0.318)" fill="url(#pattern)"/>
+    </g>
+  </g>
+</svg>

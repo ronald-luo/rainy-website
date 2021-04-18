@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>rainy</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=PT+Serif+Caption&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <h1 class="title">rainy</h1>
+
+    <h2 class="sub-text">for the rainy <br> moments in life</h2>
+    <div class="left-container"></div>
+
+
+
+    <div class="music-container">
+        <div class="box-one"></div>
+
+        <div class="box-two"></div>
+        <audio id="rain-sounds">
+            <source src="rain.mp3" type="audio/mp3">
+        </audio>
+
+        <img class="rain-image" src="images/rain.svg" />
+
+        <img src="images/play.svg" id="icon" />
+
+    </div>
+
+    <div class="footer">
+        <ul>
+            <li><a href="https://www.ronald-luo.com/">BLOG</a></li>
+            <li><a href="https://www.youtube.com/watch?v=VfqQrVbNjXc&t=1s">SOURCE</a></li>
+        </ul>
+    </div>
+
+    <script>
+        var rainsounds = document.getElementById("rain-sounds")
+        var icon = document.getElementById("icon")
+
+        icon.onclick = function () {
+            if (rainsounds.paused) {
+                rainsounds.play()
+                icon.src = "images/pause.svg"
+            } else {
+                rainsounds.pause()
+                icon.src = "images/play.svg"
+            }
+        }
+
+    </script>
+</body>
+
+</html>
