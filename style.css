@@ -93,7 +93,8 @@ body {
 }
 
 .footer {
-    height: 50vh;
+    position: absolute;
+    bottom: 5vh;
     margin: auto;
     z-index: 6;
     padding: 15 0;
